@@ -6,6 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>JUnit Hello World</name>
 	<description>Describes the basic usage of JUnit</description>
+	<packaging>jar</packaging>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
